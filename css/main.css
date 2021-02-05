@@ -191,7 +191,7 @@ header nav {
   align-items: center;
   flex-flow: row wrap;
 }
-.header nav ul {
+header nav ul {
   width: 100%;
   display: flex;
   justify-content: space-around;
